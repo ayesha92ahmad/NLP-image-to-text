@@ -1,0 +1,5 @@
+pytesseract
+opencv-python
+numpy
+Pillow
+os
