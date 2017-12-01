@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 import pytesseract
 import os
 from PIL import Image
